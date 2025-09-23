@@ -9,6 +9,31 @@ author_profile: true
 
 ---
 
+## **Teaching Assistant – DSC200 (Data Science Programming)**  
+**University of California San Diego** – San Diego, CA  
+*Sep. 2025 – Present*  
+- Teaching assistant for a graduate-level course with 200+ students, supporting instruction in **Python programming, object-oriented design, and data structures**.  
+- Led weekly discussion sections, graded assignments, and provided 1:1 mentorship to reinforce core programming concepts.  
+- Assisted in designing practice problems and debugging labs to improve students’ applied coding skills.  
+
+---
+
+## **Specialist – Human Frontier Collective GenAI**  
+**Scale AI** – California, US  
+*Jun. 2025 – Present*  
+- Collaborated with Scale AI’s research division to evaluate and refine **frontier generative AI systems**.  
+- Contributed to **model behavior diagnostics**, providing structured critiques and optimization insights.  
+- Supported interdisciplinary teams in shaping research directions for safer, more interpretable AI.  
+
+---
+
+## **AI Engineer**  
+**UC San Diego, Business & Financial Services** – San Diego, CA  
+*Oct. 2024 – Sep. 2025*  
+- Automated AI systems to identify 500+ broken links across internal web pages, reducing manual maintenance by 30%.  
+- Leveraged Python, SQL, and ServiceNow to process and analyze 40,000+ ServiceNow ticket records, identifying key patterns in ticket volume and Mean Time to Resolution (MTTR), improving response times by 15%.  
+
+---
 ## **AI Engineer**  
 **UC San Diego, Business & Financial Services** – San Diego, CA  
 *Oct. 2024 – Present*  

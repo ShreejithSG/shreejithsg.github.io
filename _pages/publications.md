@@ -15,13 +15,34 @@ I have contributed to multiple **peer-reviewed publications**, combining theoret
 
 ---
 
-## Key Research Areas
-- **Artificial Intelligence & Machine Learning:** Developing and optimizing machine learning models for real-world applications, with a focus on **model robustness**, **scalability**, and **interpretability** across various domains, including **fraud detection**, **NLP**, and **anomaly detection**.
-- **Deep Learning Architectures:** Exploring the potential of advanced **deep learning** techniques (e.g., **CNNs**, **RNNs**, **transformers**) to solve complex problems in AI, from text analysis to fraud detection, focusing on tailoring architectures to specific use cases.
-- **Statistical Analysis & Data Engineering:** Applying **statistical methods** and **data engineering** principles to ensure the integrity, accuracy, and scalability of machine learning solutions, with an emphasis on preprocessing, model evaluation, and cloud-based AI solutions.
-- **AI for Practical Solutions:** Leveraging AI to address **real-world challenges**, from optimizing internal systems and workflows to enhancing decision-making through data-driven insights.
+# **Recent Research**
 
+## 1. Symbolic Regression for Aerosol–Cloud–Climate Interactions *(in progress)*  
 
+Graduate Researcher, Advisor: Duncan Watson-Parris
+Climate Analytics Lab, UC San Diego (2025 – Present)  
+
+### **Description:**  
+Researching interpretable machine learning for climate science:  
+
+- Designed symbolic regression pipelines (**PySR, SINDy, KAN**) to extract physically meaningful mappings from satellite climate data.  
+- Benchmarked symbolic vs. deep neural networks (**R² = 0.87 vs. 0.92**).  
+- Built hybrid neural-to-symbolic architectures for **explainability without performance loss**.  
+- Deployed scalable HPC workflows on SDSC clusters for training, sensitivity analysis, and interpretability mapping.  
+
+---
+
+## 2. BirdCLEF+ Acoustic Biodiversity Challenge *(CLEF 2025, accepted)*  
+  
+CLEF 2025 Conference – **First Author**  
+
+### **Description:**  
+Contributed to the **BirdCLEF+ Kaggle competition** by developing a scalable **one-vs-rest detection pipeline** for avian bioacoustics classification.  
+
+- Trained **206 per-species XGBoost models** using log-mel spectrograms and geo-contextual metadata.  
+- Engineered **3,200-dimensional sparse features** via adaptive STFT-based binning with class balancing.  
+- Improved low-resource species performance (**F1 ↑ from 0.00 → 0.72**).  
+- Achieved **>0.90 mean AUC** across species.  
 
 ---
 
