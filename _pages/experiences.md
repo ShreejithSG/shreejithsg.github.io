@@ -9,6 +9,24 @@ author_profile: true
 
 ---
 
+## **Open-Source Research Engineer – Diffusion Systems**  
+**FastVideo / Hao AI Lab, UC San Diego** – California, US  
+*Oct. 2025 – Present*  
+- Leading open-source contributor to **FastVideo** (3K+ GitHub stars), unifying 10B+ parameter video diffusion models with distributed training/inference infrastructure supporting **multi-node H100 clusters**.  
+- Designed and implemented novel **LoRA extraction pipeline** for 5B-parameter T2V diffusion checkpoints, enabling modular weight decomposition and **60%+ memory reduction** while preserving generation quality.  
+- Ported and optimized **MatrixGame-2 (world model)** inference through hybrid attention refactoring (FlashAttention, sparse patterns, tiled computation), achieving **2.5x faster generation** on H100 clusters.  
+- Collaborating on research exploration for **diffusion language models (dLLM)**, investigating architectural optimizations (KV-caching, sparse attention, semi-autoregressive mechanisms) for efficient text generation.  
+
+---
+
+## **GenAI Specialist – Human Frontier Collective**  
+**Scale AI** – California, US  
+*Jun. 2025 – Present*  
+- Designed **chain-of-thought evaluation frameworks** for frontier reasoning models, creating structured rubrics across 15+ research benchmarks to assess factuality, logical coherence, and multi-step reasoning quality.  
+- Contributed to **post-training evaluation research** for LLM alignment, analyzing **RLHF trajectories** across 500+ model checkpoints to surface failure modes and inform improvements in instruction-following and truthfulness.  
+
+---
+
 ## **Teaching Assistant – DSC200 (Data Science Programming)**  
 **University of California San Diego** – San Diego, CA  
 *Sep. 2025 – Present*  
@@ -18,25 +36,9 @@ author_profile: true
 
 ---
 
-## **Specialist – Human Frontier Collective GenAI**  
-**Scale AI** – California, US  
-*Jun. 2025 – Present*  
-- Collaborated with Scale AI’s research division to evaluate and refine **frontier generative AI systems**.  
-- Contributed to **model behavior diagnostics**, providing structured critiques and optimization insights.  
-- Supported interdisciplinary teams in shaping research directions for safer, more interpretable AI.  
-
----
-
 ## **AI Engineer**  
 **UC San Diego, Business & Financial Services** – San Diego, CA  
 *Oct. 2024 – Sep. 2025*  
-- Automated AI systems to identify 500+ broken links across internal web pages, reducing manual maintenance by 30%.  
-- Leveraged Python, SQL, and ServiceNow to process and analyze 40,000+ ServiceNow ticket records, identifying key patterns in ticket volume and Mean Time to Resolution (MTTR), improving response times by 15%.  
-
----
-## **AI Engineer**  
-**UC San Diego, Business & Financial Services** – San Diego, CA  
-*Oct. 2024 – Present*  
 - Automated AI systems to identify 500+ broken links across internal web pages, reducing manual maintenance by 30%.  
 - Leveraged Python, SQL, and ServiceNow to process and analyze 40,000+ ServiceNow ticket records, identifying key patterns in ticket volume and Mean Time to Resolution (MTTR), improving response times by 15%.  
 

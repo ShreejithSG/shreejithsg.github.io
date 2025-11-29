@@ -7,23 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am a **Master’s student in Data Science at UC San Diego** passionate about building **interpretable, reliable, and impactful AI systems**. My work spans **machine learning, symbolic regression, and large-scale data engineering**, applied across both **scientific research** and **industry settings**.
+Greetings! I am a **Master’s student in Data Science at UC San Diego** and an aspiring **Machine Learning Research Engineer**. My passion lies in building **efficient, scalable, and high-performance AI systems**, with a focus on **large-scale training, generative AI, and distributed inference**.
 
-I currently hold multiple roles that reflect this balance:
+I currently hold multiple roles that reflect this technical depth:
 
-- 🌎 **Graduate Researcher, Climate Analytics Lab (UCSD)** — working with Prof. Duncan Watson-Parris on **interpretable machine learning for climate science**. I design symbolic regression pipelines (PySR, SINDy, KAN) to uncover physically meaningful relationships from satellite climate data, benchmarking against deep learning approaches and hybrid neural-symbolic architectures.  
-- 🤖 **Specialist, Human Frontier Collective at Scale AI** — collaborating with the Scale AI research division to stress-test and refine **frontier generative AI systems**, contributing to model diagnostics, optimization, and responsible AI evaluation.  
-- 🎓 **Teaching Assistant, UCSD (DSC200 – Data Science Programming)** — supporting instruction and mentoring graduate students in programming best practices, data structures, and applied problem-solving.  
+- 🚀 **Open-Source Research Engineer, FastVideo** — Leading contributions to a **distributed video diffusion training library** (3K+ stars), optimizing **multi-node H100 clusters** and implementing novel **LoRA extraction pipelines** for 5B+ parameter models.
+- 🤖 **GenAI Specialist, Scale AI** — Collaborating with the research division to design **chain-of-thought evaluation frameworks** and analyze **RLHF trajectories** for frontier reasoning models.
+- 🌎 **Graduate Researcher, Climate Analytics Lab (UCSD)** — Developing **interpretable machine learning pipelines** (PySR, SINDy) to uncover physical relationships in climate data.
 
 ---
 
-## Research & Publications
-- **Accepted paper (2025):** *BirdCLEF Acoustic Biodiversity Challenge* — scalable one-vs-rest detection pipeline for avian bioacoustics (to appear in CLEF 2025 proceedings).  
-- **Other publications:**  
-  - *Leveraging Data Analytics in Azure for Effective Churn Management* (1st Author)  
-  - *A Comprehensive Examination of Toxic Tweet Classification on Twitter* (1st Author)  
-  - *Analysis of Traditional & Deep Learning Architectures in NLP*  
-  - *Evolution of DDoS Detection: Traditional vs. Modern ML Models*
+## Technical Skills
+
+- **ML/DL Frameworks:** PyTorch, CUDA, TensorFlow, Transformers (HuggingFace), DeepSpeed, FSDP, Ray, vLLM, SGLang, FlashAttention, Diffusion, Multi-modal Models, JAX
+- **LLMs & GenAI:** Fine-tuning (LoRA, PEFT, SFT), RLHF, DPO, Post-training Alignment, Model Compression, Distillation, Quantization, MoE, Multi-GPU Training, 3D Parallelism
+- **Programming & Tools:** Python, C/C++, SQL, Git, Docker, Kubernetes, AWS, Weights & Biases
+- **Data Science:** Causal Inference, Statistical Modeling, Spark, Dask, ETL Pipelines
 
 ---
 
@@ -40,19 +39,11 @@ B.Tech. Computer Science & Engineering, GPA: 3.96/4.0
 ---
 
 ## Selected Projects
+- **FastVideo Distributed Training** — Unified 10B+ parameter video diffusion models with distributed training infrastructure; optimized inference achieving 2.5x speedup on H100 clusters.
 - **BirdCLEF+ 2025** — Developed per-species XGBoost classifiers using spectrogram statistics and metadata; achieved >0.90 AUC across species.  
 - **Symbolic Regression for Cloud-Aerosol Interactions** — Benchmarked interpretable models vs. deep neural nets, balancing R² performance with explainability.  
 - **NeuroFraudGAN** — Synthesized financial transaction data with GANs, reducing class imbalance by 40% and achieving 96% fraud detection accuracy.  
-- **Data Ambiguity Quantification with Optimal Transport** — Built a framework to rigorously bound generalization loss, improving sample prioritization and model robustness.  
 
 ---
 
-## Technical Strengths
-- **Programming:** Python, R, C/C++, SQL  
-- **Machine Learning & AI:** PyTorch, TensorFlow, PySR, KAN, Scikit-learn, Hugging Face  
-- **Data Engineering & Cloud:** Azure, AWS, Databricks, Spark, Kafka, MongoDB  
-- **Visualization & Analysis:** Tableau, Power BI, Matplotlib, Statistical Inference  
-
----
-
-I’m motivated by challenges at the **intersection of AI, science, and data engineering**. Whether advancing **climate science with interpretable ML** or shaping the future of **frontier generative AI**, I aim to bridge **research and application** with rigor and creativity.
+I’m motivated by challenges at the **intersection of AI systems and research**. Whether optimizing **video diffusion models** or shaping the future of **frontier LLMs**, I aim to bridge **theoretical research and scalable application** with rigor and engineering excellence.
